@@ -1,4 +1,4 @@
-{"Version":"1.7","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn8.zip","Text":"
+{"Version":"1.8","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn9.zip","Text":"
 # 🔥 เพิ่มเซิพไทย 5-6 เข้ามา2เซิพเวร์แรงๆ
 📢  เช่า VIP วันล่ะ1บาทเท่านั่น ติดต่อแอดมินได้
 👉 ไฟล์THAI เหมาะสำหรับใช้เล่นเกมส์ออนไลน์
