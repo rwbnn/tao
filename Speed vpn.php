@@ -1,4 +1,4 @@
-{"Version":"1.13","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn12.zip","Text":"
+{"Version":"1.14","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn13.zip","Text":"
 
 📢  เช่า VIP วันล่ะ1บาทเท่านั่น ติดต่อแอดมินได้
 👉 ไฟล์THAI เหมาะสำหรับใช้เล่นเกมส์ออนไลน์
