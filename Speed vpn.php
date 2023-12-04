@@ -1,4 +1,4 @@
-{"Version":"1.47","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn47.zip","Text":"
+{"Version":"1.48","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn48.zip","Text":"
 
 📢 แจ้งอัพเดทไฟล์ 04/12/2566 
 
