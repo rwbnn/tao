@@ -1,6 +1,6 @@
-{"Version":"1.63","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn61.zip","Text":"
+{"Version":"1.64","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn62.zip","Text":"
 
-📢 แจ้งอัพเดทไฟล์ 25/01/2567
+📢 แจ้งอัพเดทไฟล์ 26/01/2567
 📢 แก้ไขไฟล์ไห้ลื่นไหลยิ่งขึ้น ใช้โปรเรียนฟรีหรือโปรทรูไอดี ได้เลย
 👉 อ่านสักนิดนะครับ 
 คับ
