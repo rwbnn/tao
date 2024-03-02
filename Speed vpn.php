@@ -1,4 +1,4 @@
-{"Version":"1.68","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn66.zip","Text":"
+{"Version":"1.69","Url":"https://github.com/rwbnn/tao/raw/main/speedvpn67.zip","Text":"
 
 📢 แจ้งอัพเดทข่าว 02/03/2567
 
